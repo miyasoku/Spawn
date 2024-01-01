@@ -1,0 +1,6 @@
+# Configuration for Spawn
+# /spawn コマンドを実行したときに表示されるメッセージ
+teleported-message: "&aスポーンにテレポートしました！"
+
+# 権限がなかった際に表示されるメッセージ
+no-permission: "&cあなたにはこのコマンドを使用する権限がありません！"

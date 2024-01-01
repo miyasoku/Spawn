@@ -1,0 +1,5 @@
+com\github\miyasoku\spawn\commands\CommandSetSpawn.class
+com\github\miyasoku\spawn\listeners\Listeners$1.class
+com\github\miyasoku\spawn\commands\CommandSpawn.class
+com\github\miyasoku\spawn\listeners\Listeners.class
+com\github\miyasoku\spawn\Spawn.class
